@@ -1,6 +1,8 @@
 package main
 import "fmt"
 
+const vaLL=false
+// vaLL:=45  WE cant assign this method outside the function
 func Booll(){
 	var vall=false
 	if(vall){
@@ -8,6 +10,6 @@ func Booll(){
 	}else{
 		fmt.Println("Value is false")
 	}
-	= 356
-
+	const num= true
+	fmt.Println(num)
 }

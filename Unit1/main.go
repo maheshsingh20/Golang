@@ -7,6 +7,7 @@ func greeting(){
 }
 
 func main()  {
+	/*
 	fmt.Println("Hello World")
 	fmt.Println(6);
 	fmt.Println(true);
@@ -16,4 +17,7 @@ func main()  {
 	Stringg()
 	Floatt()
 	Booll()
+	Constant()
+	*/
+	TypeCasting()
 }
